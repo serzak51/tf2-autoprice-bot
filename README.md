@@ -70,7 +70,7 @@ The only thing you need to worry about in this file is keyvalue_bot, which is th
 This bot is designed to be used as a daemon with pm2. To install pm2, use
 >npm install pm2 -g
 >
-You can then run ./start.sh, which starts pm2 with a few settings I found to work well.
+You can then run start.sh, which starts pm2 with a few settings I found to work well.
 
 
 ## <a name="commands"></a>steam commands
